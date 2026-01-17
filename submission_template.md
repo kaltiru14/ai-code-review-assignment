@@ -2,7 +2,7 @@
 
 ## Candidate
 - Name: Kalkidan Belayneh Debas
-- Approximate time spent: 70 Min
+- Approximate time spent: 70 minutes
 
 ---
 
