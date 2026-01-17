@@ -35,6 +35,8 @@ See `correct_task1.py`
 > Note: The original AI-generated code is preserved in `task1.py`.
 
  ### Testing Considerations
+ If you were to test this function, what areas or scenarios would you focus on, and why?
+ 
 - Verify correct averaging when there are both cancelled and non-cancelled orders.
 - Test behavior with an empty order list.
 - Test when all orders are cancelled.
@@ -87,6 +89,8 @@ See `correct_task2.py`
 
 
 ### Testing Considerations
+If you were to test this function, what areas or scenarios would you focus on, and why?
+
 - Test with valid email-like strings (e.g., "user@example.com").
 - Test malformed emails such as "@example.com", "user@", and "@".
 - Test empty input lists.
@@ -142,7 +146,6 @@ See `correct_task3.py`
 
 ### Testing Considerations
 If you were to test this function, what areas or scenarios would you focus on, and why?
-
 - Test with valid numeric inputs only.
 - Test mixed inputs including strings, None, and non-numeric values.
 - Test behavior when all inputs are invalid.
