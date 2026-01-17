@@ -2,7 +2,7 @@
 
 ## Candidate
 - Name: Kalkidan Belayneh Debas
-- Approximate time spent:
+- Approximate time spent: 70 Min
 
 ---
 
@@ -36,7 +36,7 @@ See `correct_task1.py`
 
  ### Testing Considerations
  If you were to test this function, what areas or scenarios would you focus on, and why?
- 
+
 - Verify correct averaging when there are both cancelled and non-cancelled orders.
 - Test behavior with an empty order list.
 - Test when all orders are cancelled.
